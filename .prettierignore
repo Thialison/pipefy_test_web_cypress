@@ -1,0 +1,6 @@
+*.html
+*.log
+.vscode
+results
+allure-results
+README.md

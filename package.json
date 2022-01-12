@@ -26,7 +26,8 @@
     "eslint-plugin-import": "^2.25.4",
     "eslint-plugin-prettier": "^4.0.0",
     "faker-br": "^0.4.1",
-    "moment": "^2.29.1"
+    "moment": "^2.29.1",
+    "prettier": "^2.5.1"
   },
   "cypress-cucumber-preprocessor": {
     "step_definitions": "cypress/features/**/steps"
